@@ -22,7 +22,9 @@ function gIT() {
                     </div>
 
                 </div>
-            </div>
+                <p id="copy">Copyright © 2019. kloudStor PTE. LTD. (201834583-Z). All Rights Reserved.</p>
+            </div> 
+       
 
 
 
@@ -31,6 +33,12 @@ function gIT() {
                
                 * {
                     font-family: Muli, sans-serif;   
+                }
+
+                #copy{
+                    display:block;
+                    font-size:12px;
+                    margin:10px;
                 }
 
                
